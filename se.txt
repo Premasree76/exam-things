@@ -1,3 +1,5 @@
+https://github.com/vaishnave28/java
+
 kubernets:
 kubectl apply -f nginx-deployment.yaml
 kubectl get pods
